@@ -5,8 +5,4 @@ class Author
     @name
   end
 
-  def author=(name)
-    @name = name
-  end
-
 end
