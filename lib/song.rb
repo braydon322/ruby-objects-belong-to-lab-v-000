@@ -4,4 +4,5 @@ class Song
 
   def initialize
     Song.new
+  end
 end
