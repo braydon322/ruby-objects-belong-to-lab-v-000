@@ -5,5 +5,5 @@ class Song
   def initialize
     self.new
   end
-  
+
 end
